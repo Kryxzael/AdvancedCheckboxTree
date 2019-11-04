@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedCheckboxTree", "AdvancedCheckboxTree\AdvancedCheckboxTree.csproj", "{9F04B26C-566D-419B-8334-2E8F542E7130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wrapper", "Wrapper\Wrapper.csproj", "{207DAA35-5D0F-4C32-A914-6CD3F0E63492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F04B26C-566D-419B-8334-2E8F542E7130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F04B26C-566D-419B-8334-2E8F542E7130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F04B26C-566D-419B-8334-2E8F542E7130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F04B26C-566D-419B-8334-2E8F542E7130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{207DAA35-5D0F-4C32-A914-6CD3F0E63492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207DAA35-5D0F-4C32-A914-6CD3F0E63492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207DAA35-5D0F-4C32-A914-6CD3F0E63492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207DAA35-5D0F-4C32-A914-6CD3F0E63492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6E9CD63-EBB2-4DD0-9EC0-682AC0FCF712}
+	EndGlobalSection
+EndGlobal
